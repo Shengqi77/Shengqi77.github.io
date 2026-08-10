@@ -31,10 +31,13 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 - *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
 - *2023.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
 
-# 📝 Selected Publications 
+<span class='anchor' id='technical-reports'></span>
 
+# 🧭 Technical Reports
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='images/n0-foundation.png' alt="sym" width="100%"></div></div>
+<p class="section-lead">Open technical reports on tactile-centric embodied intelligence, spanning foundation infrastructure, vision–tactile–language–action learning, and tactile-native world-action modeling.</p>
+
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-foundation.png' alt="N0-Foundation technical report" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
 
@@ -47,7 +50,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Technical Report 2026</div><img src='images/n0-vtla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-vtla.png' alt="N0-VTLA technical report" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-VTLA:  Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://research.neoteai.com/assets/n0-vtla-report.pdf)
 
@@ -60,7 +63,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='images/n0-twam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-twam.png' alt="N0-TWAM technical report" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>−TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/assets/n0-twam-report.pdf)
 
@@ -74,10 +77,15 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 </div>
 
 
+<span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV 2026.png' alt="sym" width="100%"></div></div>
+# 📚 Publications
+
+<p class="section-lead">Peer-reviewed publications in embodied AI, vision–tactile manipulation, personalized visual assessment, and computational imaging.</p>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](ttps://arxiv.org/pdf/2606.29941)
+[Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation](https://arxiv.org/pdf/2606.29941)
 
 <strong>Shengqi Xu</strong>, Guojin Zhong, Yang Liu, Fanjie Wang, Hu Luo, Hanyu Zhou, Weiyao Zhang, Ziyi Ye, Zuxuan Wu*, Yu-Gang Jiang*
 
@@ -88,7 +96,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Preferthinker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR · 2026</div><img src='images/Preferthinker.png' alt="PreferThinker paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PreferThinker: Reasoning-based Personalized Image Preference Assessment](https://arxiv.org/pdf/2511.00609v1)
 
@@ -103,7 +111,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/2024ECCV.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2024</div><img src='images/2024ECCV.gif' alt="Long-range Turbulence Mitigation paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Long-range Turbulence Mitigation: A Large-scale Dataset and A Coarse-to-fine Framework](https://arxiv.org/pdf/2407.08377)
 
@@ -116,7 +124,7 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge 2023</div><img src='images/2023Text.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023</div><img src='images/2023Text.gif' alt="CVPR 2023 UG2+ text recognition solution" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.1-
 Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.08963)
@@ -131,7 +139,7 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ Challenge 2023 </div><img src='images/2023Target.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW UG2+ · 2023</div><img src='images/2023Target.gif' alt="CVPR 2023 UG2+ coded target restoration solution" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1st Solution Places for CVPR 2023 UG2+ Challenge Track 2.2-Coded Target Restoration through Atmospheric Turbulence](https://arxiv.org/pdf/2306.09379)
 
