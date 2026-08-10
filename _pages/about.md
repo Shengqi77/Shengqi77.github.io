@@ -35,8 +35,6 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 
 # 🧭 Technical Reports
 
-<p class="section-lead">Open technical reports on tactile-centric embodied intelligence, spanning foundation infrastructure, vision–tactile–language–action learning, and tactile-native world-action modeling.</p>
-
 <div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-foundation.png' alt="N0-Foundation technical report" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
@@ -80,8 +78,6 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 <span class='anchor' id='publications'></span>
 
 # 📚 Publications
-
-<p class="section-lead">Peer-reviewed publications in embodied AI, vision–tactile manipulation, personalized visual assessment, and computational imaging.</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV · 2026</div><img src='images/ECCV 2026.png' alt="Seeing Touch from Motion paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
