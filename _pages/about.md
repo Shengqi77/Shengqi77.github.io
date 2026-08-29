@@ -31,50 +31,6 @@ I'm **Shengqi Xu <font face="楷体" >(许晟旗)</font>**, a first-year Ph.D at
 - *2024.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'24 7th UG2+ Challenge</i></strong>!
 - *2023.06*: 🎉We have won <strong><i>1st place</i></strong> in the track 'Atmospheric Turbulence Mitigation' in the <strong><i>CVPR'23 6th UG2+ Challenge</i></strong>!
 
-<span class='anchor' id='technical-reports'></span>
-
-# 🧭 Technical Reports
-
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-foundation.png' alt="N0-Foundation technical report" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
-
-<strong>  NeoteAI Team and Fudan TEAI Team </strong>
-
-[**Paper**](https://research.neoteai.com/assets/n0-foundation-report.pdf) / [**Project**](https://research.neoteai.com/n0-foundation/) / [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData) / [**Code**](https://github.com/neoteai/N0-Foundation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-  <p style="margin-top: -11px"><i> <strong> Technical Report </strong>, 2026.</i></p>
-
-</div>
-</div>
-
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-vtla.png' alt="N0-VTLA technical report" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[𝒩<sub>0</sub>-VTLA:  Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://research.neoteai.com/assets/n0-vtla-report.pdf)
-
-<strong>  NeoteAI Team and Fudan TEAI Team </strong>
-
-[**Paper**](https://research.neoteai.com/assets/n0-vtla-report.pdf) / [**Project**](https://research.neoteai.com/n0-vtla/)  / [**Code**](https://github.com/neoteai/N0-VTLA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-  <p style="margin-top: -11px"><i><strong> Technical Report </strong>, 2026.</i></p>
-
-</div>
-</div>
-
-<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-twam.png' alt="N0-TWAM technical report" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[𝒩<sub>0</sub>−TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/assets/n0-twam-report.pdf)
-
-<strong>  NeoteAI Team and Fudan TEAI Team </strong>
-
-[**Paper**](https://research.neoteai.com/assets/n0-twam-report.pdf) / [**Project**](https://research.neoteai.com/n0-twam/)  / [**Code**](https://github.com/neoteai/N0-TWAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-  <p style="margin-top: -11px"><i><strong> Technical Report </strong>, 2026.</i></p>
-
-</div>
-</div>
-
-
 <span class='anchor' id='publications'></span>
 
 # 📚 Publications
@@ -145,6 +101,50 @@ Text Recognition through Atmospheric Turbulence](https://arxiv.org/pdf/2306.0896
 
 <p style="margin-top: -11px"><i>6th  CVPRW UG2+ Challenge, 2023.</i></p>
 <strong><font color=red>First Place</font> in the Track of Code Recognition through Turbulence </strong>
+</div>
+</div>
+
+
+<span class='anchor' id='technical-reports'></span>
+
+# 🧭 Technical Reports
+
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-foundation.png' alt="N0-Foundation technical report" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[𝒩<sub>0</sub>-Foundation: Towards the Age of Tactile Intelligence](https://research.neoteai.com/assets/n0-foundation-report.pdf)
+
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+[**Paper**](https://research.neoteai.com/assets/n0-foundation-report.pdf) / [**Project**](https://research.neoteai.com/n0-foundation/) / [**Dataset**](https://huggingface.co/datasets/NeoteAIEmbodied/OpenNeoData) / [**Code**](https://github.com/neoteai/N0-Foundation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  <p style="margin-top: -11px"><i> <strong> Technical Report </strong>, 2026.</i></p>
+
+</div>
+</div>
+
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-vtla.png' alt="N0-VTLA technical report" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[𝒩<sub>0</sub>-VTLA:  Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens](https://research.neoteai.com/assets/n0-vtla-report.pdf)
+
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+[**Paper**](https://research.neoteai.com/assets/n0-vtla-report.pdf) / [**Project**](https://research.neoteai.com/n0-vtla/)  / [**Code**](https://github.com/neoteai/N0-VTLA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  <p style="margin-top: -11px"><i><strong> Technical Report </strong>, 2026.</i></p>
+
+</div>
+</div>
+
+<div class='paper-box paper-box--report'><div class='paper-box-image'><div><div class="badge">Technical Report · 2026</div><img src='images/n0-twam.png' alt="N0-TWAM technical report" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[𝒩<sub>0</sub>−TWAM: Scaling Tactile-Native World Action Model for Contact-Rich Manipulation](https://research.neoteai.com/assets/n0-twam-report.pdf)
+
+<strong>  NeoteAI Team and Fudan TEAI Team </strong>
+
+[**Paper**](https://research.neoteai.com/assets/n0-twam-report.pdf) / [**Project**](https://research.neoteai.com/n0-twam/)  / [**Code**](https://github.com/neoteai/N0-TWAM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  <p style="margin-top: -11px"><i><strong> Technical Report </strong>, 2026.</i></p>
+
 </div>
 </div>
 
